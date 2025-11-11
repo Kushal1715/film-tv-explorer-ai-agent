@@ -1,0 +1,12 @@
+mcp>=1.0.0
+httpx>=0.27.0  # for async HTTP requests
+pydantic>=2.0.0  # data validation
+python-dotenv>=1.0.0
+google-genai>=1.0.0  # agent (Gemini) - official SDK
+fastapi>=0.109.0  # HTTP server
+uvicorn>=0.27.0  # HTTP server
+streamlit>=1.28.0  # web frontend
+pytest>=7.4.0  # testing
+pytest-asyncio>=0.21.0
+requests>=2.31.0
+
